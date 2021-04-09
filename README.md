@@ -4,9 +4,7 @@
 
 Run this to get a MacPorts environment that can build MacPorts on OS X Tiger.
 
-```
 Run `./bootstrap_tenfourfox.sh`
-```
 
 This is intended for OS X Tiger only. Now that Dr. Cameron Kaiser will no longer be providing precompiled builds of TenFourFox, it's up to us to [build it for ourselves](https://github.com/classilla/tenfourfox/wiki/HowToBuildFPR).
 Setting up the requiements to do so is a long, arduous, and error prone process. As such, I've created this script.
